@@ -1,6 +1,6 @@
 
 # ManyGPTS
-![Screenshot](Icon.jpg)
+![Screenshot](/Image/Icon.jpg)
 
 ManyGPTS is a Project Made By me And it is open-source everybody can edit my text/Prompt.If Prompt Type in issue.Rdev and Chessgpt IS the most Broken Prompt ever that i made.The project named ManyGPTS,i worked on this 2 weeks only.So have fun WIth the prompts
 
